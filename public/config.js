@@ -2,7 +2,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "DOWN JONES",
   "VITE_DISABLE_MAINNET": "false",
-  "VITE_DISABLE_TESTNET": "false",
+  "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "900900900",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
   "VITE_DEFAULT_CHAIN": "900900900",
@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#001eff",
   "VITE_SEO_KEYWORDS": "",
-  "VITE_AVAILABLE_LANGUAGES": "en,zh,es",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,es,de,it,ko,uk,pt,ru,fr,ja",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#6bbef6\",\"downColor\":\"#d3effb\",\"pnlUpColor\":\"#6bbef6\",\"pnlDownColor\":\"#d3effb\",\"chartBG\":\"#131722\"}"
