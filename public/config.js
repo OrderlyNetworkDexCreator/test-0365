@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "TEST",
+  "VITE_ORDERLY_BROKER_NAME": "DOWN JONES",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "900900900",
@@ -13,17 +13,17 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "TEST",
+  "VITE_APP_NAME": "DOWN JONES",
   "VITE_APP_DESCRIPTION": "test",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Rewards,Markets",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Rewards,Markets,Vaults",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
-  "VITE_SEO_SITE_NAME": "test",
+  "VITE_SEO_SITE_NAME": "DOWN JONES",
   "VITE_SEO_SITE_DESCRIPTION": "test",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/test-0365/",
   "VITE_SEO_SITE_LANGUAGE": "en",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#6bbef6\",\"downColor\":\"#d3effb\",\"pnlUpColor\":\"#6bbef6\",\"pnlDownColor\":\"#d3effb\",\"chartBG\":\"#131722\"}"
 };
